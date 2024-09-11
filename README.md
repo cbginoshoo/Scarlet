@@ -12,8 +12,8 @@ Scarlet は『[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Pr
 
 
 ## 著者  
--プログラム:@github.com/cbginoshoo  
--デザイン:@cbginoshoo
+-プログラム:cbginoshoo  
+-デザイン:cbginoshoo
 
 
 ## クレジット  
