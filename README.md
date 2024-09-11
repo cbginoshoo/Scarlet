@@ -13,10 +13,10 @@ Scarlet は『[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Pr
 
 
 ## 著者  
--プログラム:cbginoshoo  
--デザイン:cbginoshoo
+- プログラム:@ cbginoshoo  
+- デザイン:@ cbginoshoo
 
 
 ## クレジット  
--ZUN:『[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")』原作者  
--MCreator:MOD制作ツール
+- ZUN:『[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")』原作者  
+- MCreator:MOD制作ツール
