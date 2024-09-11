@@ -10,8 +10,8 @@ Scarlet は[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B
 ----|----|----|----
 | [0.1.0](NeoForge-20.6.117) | 1.20.6 | NeoForge-20.6.117 | 制作中(サポート期限は公開から1年です) |  
 ## 著者  
-- プログラム:```cbginoshoo```  
-- デザイン:```cbginoshoo```  
+- プログラム　:　```cbginoshoo```  
+- デザイン　:　```cbginoshoo```  
 ## クレジット  
-- ZUN:[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")原作者  
-- [MCreator](https://mcreator.net):MOD制作ツール
+- ZUN　:　[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")原作者  
+- [MCreator](https://mcreator.net)　:　MOD制作ツール
