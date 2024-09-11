@@ -3,7 +3,7 @@ ___
 Scarlet は[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")を原作とした二次創作MODです。
 紅魔館を中心に、様々な武器やアイテムを追加します。  
 詳細については[MOD Docs.md](MOD%20Docs.md)をご覧ください。
-___  
+  
 ## サポート
 現時点でのForge及びFablicのサポートはありません...  
 個人制作のため、変更には時間がかかります。  
