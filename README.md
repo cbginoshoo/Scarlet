@@ -13,7 +13,7 @@ Scarlet は[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Proje
 
 
 ## 著者  
-- プログラム:[cbginoshoo](https://github.com/cbginoshoo)  
+- プログラム:```cbginoshoo```  
 - デザイン:[cbginoshoo](https://github.com/cbginoshoo)
 
 
