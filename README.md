@@ -14,4 +14,4 @@ Scarlet は[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B
 - デザイン　:　```cbginoshoo```  
 ## クレジット  
 - ZUN　:　[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")原作者  
-- [MCreator](https://mcreator.net)　:　MOD制作ツール
+- [MCreator](https://mcreator.net/about)　:　MOD制作ツール
