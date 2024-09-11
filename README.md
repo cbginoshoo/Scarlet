@@ -4,6 +4,7 @@ Scarlet は[東方Ploject](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Proje
 紅魔館を中心に、様々な武器やアイテムを追加します。  
 詳細については[MOD Docs.md](MOD%20Docs.md)をご覧ください。  
 ## サポート
+現時点でのForge及びFablicのサポートはありません。
 | MODバージョン | Minecraftバージョン | ローダーバージョン | サポート期限 | 
 ----|----|----|----
 | [1.0.0](NeoForge-20.6.117/scarlet-1.0.0-neoforge-1.20.6.jar) | 1.20.6 | NeoForge-20.6.117 | 2025/09/11 |
