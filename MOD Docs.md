@@ -1,4 +1,4 @@
-![Scarlet Logo](https://github.com/cbginoshoo/Scarlet/blob/data/Scarlet%20Logo.png)
+![Scarlet Logo](https://github.com/cbginoshoo/Scarlet/blob/main/IMG/Scarlet%20Logo.png)
 ___  
 ## Version0.1.0
 2024/09/20?  
