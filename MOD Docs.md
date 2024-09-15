@@ -1,5 +1,4 @@
-![Scarlet Logo](https://github.com/cbginoshoo/Scarlet/blob/main/IMG/Scarlet%20Logo.png)
+![Scarlet Logo](/IMG/Scarlet%20Logo.png)
 ___  
 ## Version0.1.0
-2024/09/20?  
-現在制作中です。(2024/09/20頃の公開を予定しています)
+2024/09/15
