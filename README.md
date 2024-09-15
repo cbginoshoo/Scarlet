@@ -6,7 +6,7 @@ Scarlet は[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B
 ## サポート
 | MOD | Minecraft | MODローダー | サポート期限 | 
 ----|----|----|----
-| [0.1.0]([NeoForge-20.6.117](/NeoForge-20.6.117/scarlet-0.1.0-neoforge-1.20.6.jar)) | 1.20.6 | NeoForge-20.6.117 | 制作中(サポート期限は通常、公開から1年です) |  
+| [0.1.0]([NeoForge-20.6.117](tree/main/NeoForge-20.6.117/scarlet-0.1.0-neoforge-1.20.6.jar)) | 1.20.6 | NeoForge-20.6.117 | 制作中(サポート期限は通常、公開から1年です) |  
 ## 著者  
 - プログラム　:　```cbginoshoo```  
 - デザイン　:　```cbginoshoo```  
