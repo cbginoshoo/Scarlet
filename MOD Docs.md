@@ -11,6 +11,6 @@ ___
 | 攻撃力 | 15 |
 | 攻撃速度 | 3.2 |
 | 耐久値 | 4,096 |
-| 修理に使うアイテム | Crystal |
+| 修理に使うアイテム | Crystal <img src="/IMG/crystal1.png" height="16px"> <img src="/IMG/crystal2.png" height="16px"> <img src="/IMG/crystal3.png" height="16px"> <img src="/IMG/crystal4.png" height="16px"> <img src="/IMG/crystal5.png" height="16px"> <img src="/IMG/crystal6.png" height="16px"> <img src="/IMG/crystal7.png" height="16px"> <img src="/IMG/crystal8.png" height="16px"> |
 | その他 | - |
 | 火に対する耐性 | True |  
