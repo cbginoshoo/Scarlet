@@ -5,7 +5,6 @@ ___
 ## 1.追加アイテム
 | Laevatein | <img src="/IMG/laevatein-1.0.2.png" height="32px"> |
 ----|----
-| ゲーム内の名前 | Laevatein |
 | タイプ | Sword |
 | クリエイティブタブ | Scarlet <img src="/IMG/Scarlet%20MOD.png" height="16px"> |
 | エンチャントの付きやすさ | 10 |
