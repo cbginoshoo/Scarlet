@@ -2,7 +2,6 @@
 ___  
 ## Version0.1.0
 2024/09/15
-1. 追加アイテム  
 Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
 | 基本情報 | 1 |
 ----|----
@@ -17,5 +16,3 @@ Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
 | その他 | 2 |
 ----|----
 | 火に対する耐性 | True |  
-2. 追加ブロック  
-3. その他、追加要素  
