@@ -4,7 +4,7 @@ ___
 2024/09/15
 1. 追加アイテム
     - Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
-基本情報 :
+    | 基本情報 ||
     ----|----
     | ゲーム内の名前 | Laevatein |
     | タイプ | Sword |
