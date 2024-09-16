@@ -3,7 +3,7 @@ ___
 ## Version0.1.0
 2024/09/15
 Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
-| 基本情報 | 1 |
+| 基本情報 | Data |
 ----|----
 | ゲーム内の名前 | Laevatein |
 | タイプ | Sword |
@@ -12,7 +12,8 @@ Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
 | 攻撃力 | 15 |
 | 攻撃速度 | 3.2 |
 | 耐久値 | 4,096 |
-| 修理に使うアイテム | Crystal |  
+| 修理に使うアイテム | Crystal |
+
 | その他 | 2 |
 ----|----
 | 火に対する耐性 | True |  
