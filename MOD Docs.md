@@ -17,7 +17,7 @@ ___
 
 | Crystal ( #1 ~ #8 ) | <img src="/IMG/crystal1.png" height="16px"> <img src="/IMG/crystal2.png" height="16px"> <img src="/IMG/crystal3.png" height="16px"> <img src="/IMG/crystal4.png" height="16px"> <img src="/IMG/crystal5.png" height="16px"> <img src="/IMG/crystal6.png" height="16px"> <img src="/IMG/crystal7.png" height="16px"> <img src="/IMG/crystal8.png" height="16px"> |
 ----|----
-| タイプ | アイテム |
+| タイプ | Item |
 | レア度 | Common |
 | クリエイティブタブ | Scarlet <img src="/IMG/Scarlet%20MOD.png" height="16px"> |
 | 最大スタック容量 | 64 |
