@@ -3,8 +3,7 @@ ___
 ## Version0.1.0
 2024/09/15
 ## 1.追加アイテム
-Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
-| 基本情報 | Data |
+| Laevatein | <img src="/IMG/laevatein-1.0.2.png" height="32px"> |
 ----|----
 | ゲーム内の名前 | Laevatein |
 | タイプ | Sword |
