@@ -13,7 +13,5 @@ Laevatein <img src="/IMG/laevatein-1.0.2.png" height="32px">
 | 攻撃速度 | 3.2 |
 | 耐久値 | 4,096 |
 | 修理に使うアイテム | Crystal |
-
-| その他 | 2 |
-----|----
+| その他 | - |
 | 火に対する耐性 | True |  
