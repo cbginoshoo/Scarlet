@@ -8,7 +8,7 @@ ___
     ----|----
     | ゲーム内の名前 | Laevatein |
     | タイプ | Sword |
-    | クリエイティブタブ | Scarlet<img src="/IMG/Scarlet%20MOD.png" height="16px"> |
+    | クリエイティブタブ | Scarlet <img src="/IMG/Scarlet%20MOD.png" height="16px"> |
     | エンチャントの付きやすさ | 10 |
     | 攻撃力 | 15 |
     | 攻撃速度 | 3.2 |
