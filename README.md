@@ -12,5 +12,5 @@ Scarlet は[『東方Ploject』](https://en.wikipedia.org/wiki/Touhou_Ploject)�
 - プログラム　:　```cbginoshoo```  
 - デザイン　:　```cbginoshoo```  
 ## クレジット  
-- ZUN　:　[『東方Ploject』](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project"東方Ploject")原作者  
+- ZUN　:　[『東方Ploject』](https://en.wikipedia.org/wiki/Touhou_Ploject)原作者  
 - [MCreator](https://mcreator.net/about)　:　MOD制作ツール  
