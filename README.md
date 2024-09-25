@@ -14,4 +14,4 @@ Scarlet は[『東方Ploject』](https://ja.wikipedia.org/wiki/東方Project)を
 ## クレジット  
 - [MCreator](https://mcreator.net/about)　:　MOD制作ツール  
 - ZUN　:　[『東方Ploject』](https://ja.wikipedia.org/wiki/東方Project)原作者  
-<img src="http://www16.big.or.jp/~zun/image/banner.gif" width=200 height=40>  
+ <img src="http://www16.big.or.jp/~zun/image/banner.gif" width=200 height=40>  
