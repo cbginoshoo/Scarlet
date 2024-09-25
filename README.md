@@ -1,6 +1,6 @@
 ![Scarlet Logo](/IMG/Scarlet%20Logo.png)
 ___  
-Scarlet は[『東方Ploject』](http://www16.big.or.jp/~zun/)を原作とした二次創作MODです。
+Scarlet は[『東方Ploject』](https://ja.wikipedia.org/wiki/東方Project)を原作とした二次創作MODです。
 紅魔館を中心に、様々な武器やアイテムを追加します。  
 詳細については[MOD Docs.md](MOD%20Docs.md)をご覧ください。  
 ## サポート
@@ -13,5 +13,5 @@ Scarlet は[『東方Ploject』](http://www16.big.or.jp/~zun/)を原作とした
 - デザイン　:　```cbginoshoo```  
 ## クレジット  
 - [MCreator](https://mcreator.net/about)　:　MOD制作ツール  
-- ZUN　:　[『東方Ploject』](http://www16.big.or.jp/~zun/)原作者  
+- ZUN　:　[『東方Ploject』](https://ja.wikipedia.org/wiki/東方Project)原作者  
   <img src="http://www16.big.or.jp/~zun/image/banner.gif" width=200 height=40>  
