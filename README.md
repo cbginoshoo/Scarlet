@@ -12,5 +12,6 @@ Scarlet は[『東方Ploject』](http://www16.big.or.jp/~zun/)を原作とした
 - プログラム　:　```cbginoshoo```  
 - デザイン　:　```cbginoshoo```  
 ## クレジット  
-- ZUN　:　[『東方Ploject』](http://www16.big.or.jp/~zun/)原作者  
+- ZUN　:　[『東方Ploject』](http://www16.big.or.jp/~zun/)原作者
+<img src="http://www16.big.or.jp/~zun/image/banner.gif" width=200 height=40>  
 - [MCreator](https://mcreator.net/about)　:　MOD制作ツール  
