@@ -1,8 +1,21 @@
 ![Scarlet Logo](/IMG/Scarlet%20Logo.png)
 ___  
+> [!WARNING]
+> このMOD DocsはVersion0.1.1以降、[patchouli mod](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/5683901)を前提としたゲーム内のチュートリアル本に引き継がれます。
+> Version0.1.1以降からは、ここは簡単な変更履歴のみ更新されます。
+___  
+
 ## Version0.1.0
 2024/09/15
+
 ### 1.追加アイテム
+| Crystal ( #1 ~ #8 ) | <img src="/IMG/crystal1.png" height="16px"> <img src="/IMG/crystal2.png" height="16px"> <img src="/IMG/crystal3.png" height="16px"> <img src="/IMG/crystal4.png" height="16px"> <img src="/IMG/crystal5.png" height="16px"> <img src="/IMG/crystal6.png" height="16px"> <img src="/IMG/crystal7.png" height="16px"> <img src="/IMG/crystal8.png" height="16px"> |
+----|----
+| タイプ | Item |
+| レア度 | Common |
+| クリエイティブタブ | Scarlet <img src="/IMG/Scarlet%20MOD.png" height="16px"> |
+| 最大スタック容量 | 64 |
+
 | Laevatein | <img src="/IMG/laevatein-1.0.2.png" height="32px"> |
 ----|----
 | タイプ | Sword |
@@ -15,12 +28,14 @@ ___
 | その他 | - |
 | 火に対する耐性 | True |  
 
-| Crystal ( #1 ~ #8 ) | <img src="/IMG/crystal1.png" height="16px"> <img src="/IMG/crystal2.png" height="16px"> <img src="/IMG/crystal3.png" height="16px"> <img src="/IMG/crystal4.png" height="16px"> <img src="/IMG/crystal5.png" height="16px"> <img src="/IMG/crystal6.png" height="16px"> <img src="/IMG/crystal7.png" height="16px"> <img src="/IMG/crystal8.png" height="16px"> |
+| Black Bricks,Black Bricks ( 1 ~ 16 ) | img |
 ----|----
-| タイプ | Item |
-| レア度 | Common |
+| タイプ | Block |
 | クリエイティブタブ | Scarlet <img src="/IMG/Scarlet%20MOD.png" height="16px"> |
+| 硬度 | 1.5 |
+| 耐性 | 6 |
 | 最大スタック容量 | 64 |
+
 
 ## Version0.1.1
 20--/--/--
