@@ -2,7 +2,7 @@
 ___  
 > [!WARNING]
 > このMOD DocsはVersion0.1.1以降、[patchouli mod](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/5683901)を前提としたゲーム内のチュートリアル本に引き継がれます。
-> Version0.1.1以降からは、ここは簡単な変更履歴のみ更新されます。
+> Version0.1.1以降からは、ここには簡単な変更履歴のみが更新されます。
 ___  
 
 ## Version0.1.0
