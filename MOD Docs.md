@@ -2,7 +2,7 @@
 ___  
 ## Version0.1.0
 2024/09/15
-## 1.追加アイテム
+### 1.追加アイテム
 | Laevatein | <img src="/IMG/laevatein-1.0.2.png" height="32px"> |
 ----|----
 | タイプ | Sword |
@@ -21,3 +21,14 @@ ___
 | レア度 | Common |
 | クリエイティブタブ | Scarlet <img src="/IMG/Scarlet%20MOD.png" height="16px"> |
 | 最大スタック容量 | 64 |
+
+## Version0.1.1
+20--/--/--
+> [!WARNING]
+> MODローダーのバージョンを`NeoForge-20.6.117`から`NeoForge-21.1.65`に変更しました
+
+> [!NOTE]
+> P点のオーバーレイを特定のアイテム<sup>[※1]</sup>を持っている時のみ表示するようになりました
+> | Name | Img |
+> ----|----
+> | Laevatein | <img src="/IMG/laevatein-1.0.2.png" height="32px"> |
