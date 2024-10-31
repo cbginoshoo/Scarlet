@@ -7,8 +7,8 @@ Scarlet は[『東方Ploject』][Touhou_Wiki]を原作とした二次創作MOD�
 ## サポート  
 | Scarlet | Minecraft | MODローダー | 公開日 | サポート | サポート期限 |  
 ----|----|----|----|----|----  
-| [0.1.0](/NeoForge-20.6.117/scarlet-0.1.0-neoforge-1.20.6.jar) | 1.20.6 | NeoForge-20.6.117 | 2024/09/16 | True | 2025/09/16 |  
-| 0.1.1 | 1.20.6 | Neoforge-20.6.117 | 制作中 | - | サポート期限は通常、公開から1年です |  
+| [0.1.0](/NeoForge-20.6.117/scarlet-0.1.0-neoforge-1.20.6.jar) | 1.20.6 | NeoForge-20.6.117 | 2024/09/16 | False | 2024/10/31 |  
+| 0.1.1 | 1.21.1 | Neoforge-21.1.65 | 制作中 | - | サポート期限は通常、公開から1年です |  
 ## 著者  
 - プログラム　:　`cbginoshoo`  
 - デザイン　:　`cbginoshoo`  
