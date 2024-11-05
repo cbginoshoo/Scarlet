@@ -8,6 +8,8 @@ ___
 
 ## Version0.1.0
 2024/09/15
+> [!NOTE]
+> MODローダー`NeoForge-20.6.117`用のMOD
 
 ### 1.追加アイテム
 | Crystal ( #1 ~ #8 ) | <img src="/IMG/crystal1.png" height="16px"> <img src="/IMG/crystal2.png" height="16px"> <img src="/IMG/crystal3.png" height="16px"> <img src="/IMG/crystal4.png" height="16px"> <img src="/IMG/crystal5.png" height="16px"> <img src="/IMG/crystal6.png" height="16px"> <img src="/IMG/crystal7.png" height="16px"> <img src="/IMG/crystal8.png" height="16px"> |
@@ -42,6 +44,12 @@ ___
 2024/11/06
 > [!WARNING]
 > MODローダーのバージョンを`NeoForge-20.6.117`から`NeoForge-21.1.65`に変更しました。
+
+> [!NOTE]
+> P点のオーバーレイを特定のアイテム<sup>[※1]</sup>を持っている時のみ表示するようになりました
+> | Name | Img |
+> ----|----
+> | Laevatein | <img src="/IMG/laevatein-1.0.2.png" height="32px"> |
 
 
 ## Version0.2.0
