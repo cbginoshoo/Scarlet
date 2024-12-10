@@ -1,0 +1,10 @@
+{
+  "name": "Scarlet book",
+  "landing_text": "Scarlet 0.2.0",
+  "model": "patchouli:guide_book",
+  "creative_tab": "scarlet:scarlet_main",
+  "show_progress": false,
+  "i18n": true,
+  "use_resource_pack": true,
+  "version": 1
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "scarlet:block/crystal_ore",
+    "particle": "scarlet:block/crystal_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "id": "scarlet:scarlet_mod"
+    },
+    "title": {
+      "translate": "advancements.scarlet.title"
+    },
+    "description": {
+      "translate": "advancements.scarlet.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "scarlet_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

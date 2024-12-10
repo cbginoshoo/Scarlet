@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "scarlet:crystal"
+    },
+    {
+      "tag": "scarlet:crystal"
+    }
+  ],
+  "result": {
+    "id": "scarlet:huran_ex",
+    "count": 1
+  }
+}

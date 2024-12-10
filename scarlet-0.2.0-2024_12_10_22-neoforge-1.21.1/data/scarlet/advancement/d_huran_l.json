@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "scarlet:d_huran"
+    },
+    "title": {
+      "translate": "advancements.d_huran_l.title"
+    },
+    "description": {
+      "translate": "advancements.d_huran_l.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "d_huran_l_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scarlet:d_huran"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "scarlet:huran_exl"
+}

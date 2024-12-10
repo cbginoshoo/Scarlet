@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scarlet:crystal_1"
+    },
+    {
+      "item": "scarlet:crystal_2"
+    },
+    {
+      "item": "scarlet:crystal_3"
+    },
+    {
+      "item": "scarlet:crystal_4"
+    },
+    {
+      "item": "scarlet:crystal_5"
+    },
+    {
+      "item": "scarlet:crystal_6"
+    },
+    {
+      "item": "scarlet:crystal_7"
+    },
+    {
+      "item": "scarlet:crystal_8"
+    }
+  ],
+  "result": {
+    "id": "scarlet:lavatein",
+    "count": 1
+  }
+}

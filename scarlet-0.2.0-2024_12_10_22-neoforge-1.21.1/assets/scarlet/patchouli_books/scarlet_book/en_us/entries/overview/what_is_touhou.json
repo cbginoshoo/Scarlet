@@ -1,0 +1,14 @@
+{
+  "sortnum": 0,
+  "name": "patchouli.scarlet.book.entries.overview.what_is_touhou.name",
+  "icon": "scarlet:scarlet_mod",
+  "category": "scarlet:overview",
+  "pages": [
+    {
+      "type": "link",
+      "text": "patchouli.scarlet.book.entries.overview.what_is_touhou.pages.0.text",
+      "url": "https://en.touhouwiki.net/wiki/Touhou_Wiki",
+      "link_text": "patchouli.scarlet.book.entries.overview.what_is_touhou.pages.0.link_text"
+    }
+  ]
+}

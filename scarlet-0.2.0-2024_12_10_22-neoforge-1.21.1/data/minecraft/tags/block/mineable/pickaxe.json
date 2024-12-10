@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "scarlet:black_bricks_wall",
+    "scarlet:black_bricks_slab",
+    "scarlet:black_bricks_stairs",
+    "scarlet:black_bricks",
+    "scarlet:crystal_ore"
+  ]
+}

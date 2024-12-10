@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "scarlet:block/black_bricks",
+    "up": "scarlet:block/mcircle10",
+    "north": "scarlet:block/black_bricks",
+    "east": "scarlet:block/black_bricks",
+    "south": "scarlet:block/black_bricks",
+    "west": "scarlet:block/black_bricks",
+    "particle": "scarlet:block/black_bricks"
+  },
+  "render_type": "solid"
+}
