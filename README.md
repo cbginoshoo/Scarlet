@@ -1,5 +1,5 @@
 [Touhou_Wiki]: https://ja.wikipedia.org/wiki/東方Project
-![Scarlet Logo](/IMG/Scarlet%20Logo.png)  
+![Scarlet Logo](https://github.com/cbginoshoo/Scarlet/blob/scarlet-0.2.0-neoforge-1.21.1/logo.png)  
 ___  
 Scarlet は[『東方Ploject』][Touhou_Wiki]を原作とした二次創作MODです。  
 紅魔館を中心に、様々な武器やアイテムを追加します。  
