@@ -4,13 +4,13 @@ license="-"
 
 [[mods]]
 modId="scarlet"
-version="0.2.02024121022"
+version="0.2.0202412111030"
 displayName="Scarlet"
 displayURL="https://github.com/cbginoshoo/Scarlet"
 logoFile="logo.png"
 credits="-"
 authors="cbginoshoo"
-description="scarlet-0.2.0-2024/12/10/22-neoforge-1.21.1"
+description="scarlet-0.2.0-2024/12/11/1030-neoforge-1.21.1"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
