@@ -12,11 +12,11 @@ Scarlet は[『東方Ploject』][Touhou_Wiki]を原作とした二次創作MOD�
 | 0.2.0 | Beta | 1.21.1 | NeoForge-21.1.65 | 制作中 | - | - |  
 ## MOD関係  
 > [!NOTE]  
-> Version0.2.0以降では[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/5683901)を前提としたチュートリアル本がゲーム内に追加されるので、入れておくことを推奨します。
+> Version0.2.0以降では[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)を前提としたチュートリアル本がゲーム内に追加されるので、導入を推奨します。
   
 | Scarlet | 依存関係 | 推奨MOD |  
 ----|----|----  
-| 0.2.0 + | - | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/5683901) |  
+| 0.2.0 + | - | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) |  
 ## 著者  
 - プログラム　:　`cbginoshoo`  
 - デザイン　:　`cbginoshoo`  
