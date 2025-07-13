@@ -9,7 +9,7 @@ Scarlet は[『東方Ploject』][Touhou_Wiki]を原作とした二次創作MOD�
 ----|----|----|----|----|----|----  
 | [0.1.0](/NeoForge-20.6.117/scarlet-0.1.0-neoforge-1.20.6.jar) | Alpha | 1.20.6 | NeoForge-20.6.117 | 2024/09/16 | False | - |  
 | [0.1.1](/NeoForge-21.1.65/scarlet-0.1.1-neoforge-1.21.1.jar) | Alpha | 1.21.1 | NeoForge-21.1.65 | 2024/11/06 | False | - |  
-| [0.2.0](/NeoForge-21.1.92/scarlet-0.2.0-20250627-neoforge-1.21.1.jar) | Alpha | 1.21.1 | NeoForge-21.1.92 | 2025/06/27 | False | - |  
+| [0.2.0](/NeoForge-21.1.92/scarlet-0.2.0-20250627-neoforge-1.21.1.92.jar) | Alpha | 1.21.1 | NeoForge-21.1.92 | 2025/06/27 | False | - |  
 | 0.2.1 | Beta | 1.21.1 | NeoForge-21.1.176 | 制作中 | - | - |  
 ## MOD関係  
 > [!NOTE]  
